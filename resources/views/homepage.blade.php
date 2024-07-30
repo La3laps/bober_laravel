@@ -8,6 +8,12 @@
     <title>Homepage</title>
 </head>
 <body>
-    <h1>Homepage</h1>
+@include('composents.header')
+<h1>Homepage</h1>
+    <ul>
+        <li><a href="/products">Produits</a> </li>
+        <li><a href="/cart">Panier</a> </li>
+    </ul>
 </body>
+@include('composents.footer')
 </html>
