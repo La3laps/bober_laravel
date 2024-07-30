@@ -4,13 +4,13 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class ProductController extends Controller
+class ProductDetailsController extends Controller
 {
     public function index(){
-        return view('product-list');
+        return view('Product');
     }
 
     public function show($id){
-        return view('product-details',['id' => $id]);
+        return view('ProductDetails',['id' => $id]);
     }
 }
