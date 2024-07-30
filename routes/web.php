@@ -1,6 +1,10 @@
 <?php
 
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\HeaderController;
 
-Route::get('/header', [HeaderController::class, 'header_index']);
+Route::get('/', function () {
+    return view('welcome');
+});
+Route::get('/products', [ProductController::class, 'productList']);
+
