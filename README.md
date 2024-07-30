@@ -11,3 +11,9 @@ Here is how to push to git
 4. If merge conflicts, resolve them (good luck <3)
 
 5. Then just push "git push <yourname> main" (<yourname> is your branch)
+
+branches :
+Remi
+Gaby
+Corentin
+Julien
