@@ -7,6 +7,8 @@
     <title>Cart</title>
 </head>
 
+@include('composents.header')
+
 <body>
     <h1>Cart section</h1>
 </body>
