@@ -12,8 +12,5 @@ Here is how to push to git
 
 5. Then just push "git push <yourname> main" (<yourname> is your branch)
 
-branches :
-Remi
-Gaby
-Corentin
+branche :
 Julien
