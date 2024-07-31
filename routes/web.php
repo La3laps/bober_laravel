@@ -8,4 +8,5 @@ use App\Http\Controllers\ProductController;
 Route::get('/products', [ProductController::class, 'productList']);
 Route::get('/', [HomeController::class, 'home_index']);
 Route::get('/cart', [CartController::class, 'viewCart']);
-Route::get('/products/{$id}', [ProductController::class, 'show']);
+Route::get('/products/{id}', [ProductController::class, 'show']);
+

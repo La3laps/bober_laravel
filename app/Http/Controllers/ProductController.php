@@ -3,6 +3,8 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\View\View;
+
 class ProductController extends Controller
 {
     public function productList()
@@ -10,7 +12,8 @@ class ProductController extends Controller
         return view('ProductList');
     }
 
-    public function show($id){
-        return view('ProductDetails',['id' => $id]);
+    public function show(int $id)
+    {
+        return view('ProductDetails', ['id' => $id]);
     }
 }
