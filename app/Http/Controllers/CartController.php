@@ -1,12 +1,11 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
 
 class CartController extends Controller
 {
-    public function home_index()
+    public function viewCart()
     {
         return view('cart');
     }

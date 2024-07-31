@@ -14,3 +14,6 @@ Here is how to push to git
 
 branches :
 Remi
+Gaby
+Corentin
+Julien

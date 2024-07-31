@@ -9,4 +9,8 @@ class ProductController extends Controller
     {
         return view('ProductList');
     }
+
+    public function show($id){
+        return view('ProductDetails',['id' => $id]);
+    }
 }
