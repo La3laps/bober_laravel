@@ -11,12 +11,10 @@
 <body>
 @include('composents.header')
 <div class="container">
-<h1>Homepage</h1>
-    <ul>
-        <li><a href="/products">Produits</a> </li>
-        <li><a href="/cart">Panier</a> </li>
-    </ul>
+<h1>Welcome to BobAir!</h1>
+    <img id="planeHome" src="{{asset('images/plane-removebg-preview.png')}}" alt="plane">
+    <p>Discover the whimsical world of Miyazaki-inspired aircraft. Our exclusive collection of meticulously crafted, fictive planes captures the enchanting spirit of Studio Ghibli’s masterpieces. Each model is a tribute to the imagination and artistry of Hayao Miyazaki, perfect for collectors and dreamers alike. Explore our unique selection and let your adventures take flight!</p>
 </div>
-</body>
 @include('composents.footer')
+</body>
 </html>

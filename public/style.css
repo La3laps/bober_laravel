@@ -9,7 +9,7 @@
 }
 
 body {
-    height: 100vh;
+    min-height: 100vh;
     font-family: Poppins-Regular, sans-serif;
     background-image: url('images/bg.jpg');
     background-repeat: round;
@@ -110,6 +110,18 @@ header
     background-color: #ffffff;
     padding: 40px;
     border-radius: 40px;
+    text-align: right;
+}
+
+.containerProducts {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 40px;
+    text-align: right;
+    width: 50%;
 }
 
 .title {
@@ -125,7 +137,33 @@ header
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.product p {
+    text-align: center;
+}
+
 .product img {
     max-width: 600px;
     height: auto;
+}
+
+#planeHome {
+    position: absolute;
+    left: 120px;
+    z-index: 2;
+    width: 30%;
+}
+
+.container p {
+    margin-left: 25vw;
+    line-height: 2.5vw;
+}
+
+.containerProducts p {
+    line-height: 2.5vw;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: -140px;
 }

@@ -6,7 +6,7 @@
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
           <h5 class="text-uppercase">Company</h5>
-  
+
           <ul class="list-unstyled mb-0" style="font-size: 15px;">
             <li>
               <a href="#!" class="text-dark">About</a>
@@ -25,11 +25,11 @@
             </li>
           </ul>
         </div>
-  
+
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
           <h5 class="text-uppercase mb-0">Support</h5>
-  
+
           <ul class="list-unstyled" style="font-size: 15px;">
             <li>
               <a href="#!" class="text-dark">Contact us</a>
@@ -39,11 +39,11 @@
             </li>
           </ul>
         </div>
-  
+
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
           <h5 class="text-uppercase">Projects</h5>
-  
+
           <ul class="list-unstyled mb-0" style="font-size: 15px;">
             <li>
               <a href="#!" class="text-dark">Planes & planes</a>
@@ -59,11 +59,11 @@
             </li>
           </ul>
         </div>
-  
+
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
           <h5 class="text-uppercase mb-0">Community</h5>
-  
+
           <ul class="list-unstyled" style="font-size: 15px;">
             <li>
               <a href="#!" class="text-dark">Issues</a>
@@ -81,12 +81,11 @@
         </div>
       </div>
     </div>
-  
+
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.01);">
       © 2024 Copyright:
       <span class="text-dark">Corentin, Gabriela, Julien, Rémi.</span>
     </div>
   </footer>
-</body>
-</html>
+
