@@ -12,7 +12,7 @@ class ProductController extends Controller
         return view('ProductList');
     }
 
-    public function show(int $id)
+    public function show($id)
     {
         return view('ProductDetails', ['id' => $id]);
     }

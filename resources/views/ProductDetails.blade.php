@@ -1,12 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Fiche du produit</title>
-</head>
+@include('composents.header')
+
+
 <body>
-<h1>Fiche du produit : {{$id}} </h1>
+<div class="container">
+        <h1>Product : {{$id}} </h1>
+        <img src="{{asset('images/' . $id . '.jpg')}}" alt="img-product" style="max-width: 600px;">
+    <p>Ici la description du produit "{{$id}}"</p>
+</div>
+
 </body>
-</html>
+
+@include('composents.footer')
