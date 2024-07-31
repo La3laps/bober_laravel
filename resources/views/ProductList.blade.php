@@ -55,7 +55,7 @@
     <div class="product">
         <img src="https://www.studioghibli.fr/wp-content/uploads/2009/07/nausicaa1.jpg" alt="Nausicaä's glider">
         <h2>Nausicaä's glider</h2>
-        <p><em>It is powered by some strange magic; the small gust of wind will send this baby into the stratosphere *slaps hood*!</em></p>
+        <p><em>It is powered by some strange magic; the smallest gust of wind will send this baby into the stratosphere *slaps hood of glider*</em></p>
     </div>
 </div>
 </body>
