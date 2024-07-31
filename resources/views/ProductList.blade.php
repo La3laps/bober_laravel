@@ -1,35 +1,5 @@
-<!doctype html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Product list</title>
-</head>
 
 @include('composents.header')
-
-<style>
-
-    .title {
-        text-align: center;
-    }
-
-    .product {
-        border: 1px solid #ddd;
-        border-radius: 5px;
-        margin-bottom: 20px;
-        padding: 20px;
-        text-align: center;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .product img {
-        max-width: 600px;
-        height: auto;
-    }
-</style>
 
 <body>
 
