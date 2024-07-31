@@ -12,7 +12,22 @@
 <body>
     <!-- bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <h1 class="mt-5 text-center">Header goes here</h1>
-    <h2>Herpy Derp Herp</h2>
-</body>
-</html>
+
+    <header>
+        <a href="" class="logo"><img src="{{ asset('images/worldwide.png') }}" alt=""> <span>BobAir</span></a>
+
+        <ul class="navbar">
+            <li><a href="/" class="active">Home</a></li>
+            <li><a href="/products">Our planes</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="main">
+            <a href="/cart" class="cart">
+                <img src="{{ asset('images/suitcase.png') }}" alt="cart" width="35px">
+            </a>
+        </div>
+    </header>
+
+
+
