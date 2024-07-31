@@ -1,4 +1,4 @@
-<footer class="bg-light-subtle text-center text-lg-start fixed-bottom fs-5 ">
+<footer class="bg-light-subtle text-center text-lg-start fs-5 ">
     <!-- Grid container -->
     <div class="container p-4">
       <!--Grid row-->
