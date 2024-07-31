@@ -43,19 +43,19 @@
         <p><em>Functional and very authentic (not a replica!) plane belonging to Porco Rosso, a god amongst porks.</em></p>
     </div>
     <div class="product">
-        <img src="produit2.jpg" alt="Medium plane">
-        <h2>Produit 2</h2>
-        <p><em>Voici une description du produit 2. Ce produit est de haute qualité.</em></p>
+        <img src="https://m.media-amazon.com/images/M/MV5BNmQ2ZWMwMzgtZjZjMS00ZTY0LWE3YjEtMDc3YmNkMWFkNDMwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg" alt="The Wind Rises plane">
+        <h2>French-colored plane</h2>
+        <p><em>If you look at the plane from the left-hand side, it looks like the French flag.  Cocorico!</em></p>
     </div>
     <div class="product">
-        <img src="produit3.jpg" alt="Big plane">
-        <h2>Produit 3</h2>
-        <p><em>Voici une description du produit 3. Il répondra à toutes vos attentes.</em></p>
+        <img src="https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/print-edition/20200606_BKP001_0.jpg" alt="Kiki's broom">
+        <h2>Kiki's magic broom</h2>
+        <p><em>It's not a plane, but you get the idea.  It floats in the air.  Neko not included.</em></p>
     </div>
     <div class="product">
-        <img src="produit4.jpg" alt="Huge plane">
-        <h2>Produit 4</h2>
-        <p>Voici une description du produit 4. Un produit indispensable pour vous.</p>
+        <img src="https://www.studioghibli.fr/wp-content/uploads/2009/07/nausicaa1.jpg" alt="Nausicaä's glider">
+        <h2>Nausicaä's glider</h2>
+        <p><em>It is powered by some strange magic; the small gust of wind will send this baby into the stratosphere *slaps hood*!</em></p>
     </div>
 </div>
 </body>
