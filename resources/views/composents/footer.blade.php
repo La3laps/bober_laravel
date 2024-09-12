@@ -87,5 +87,9 @@
       © 2024 Copyright:
       <span class="text-dark">Corentin, Gabriela, Julien, Rémi.</span>
     </div>
+
   </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/ui/1.14.0/jquery-ui.js"></script>
+<script src="script.js"></script>
 

@@ -28,6 +28,7 @@
                 <img src="{{ asset('images/suitcase.png') }}" alt="cart" width="35px">
             </a>
         </div>
+
     </header>
 
 
